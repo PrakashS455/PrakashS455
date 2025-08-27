@@ -21,7 +21,7 @@
 `C#` • `.NET Core` • `ASP.NET MVC` • `Entity Framework` • `LINQ`  
 
 **Frontend**  
-`Angular` • `React` • `Blazor` • `JavaScript` • `TypeScript` • `HTML5` • `CSS3`  
+`Angular` • `JavaScript` • `TypeScript` • `HTML5` • `CSS3`  
 
 **Database**  
 `SQL Server`    
@@ -41,9 +41,8 @@
 
 ## 📫 Connect with Me  
 
-🌐 **Portfolio/Blog:** [yourwebsite.com](https://yourwebsite.com)  
 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-💻 **GitHub:** [github.com/yourgithub](https://github.com/yourgithub)  
+💻 **GitHub:** [github.com/yourgithub](https://github.com/PrakashS455)  
 ✉️ **Email:** prakashakash212@gmail.com  
 
 ---
