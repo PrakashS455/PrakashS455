@@ -24,10 +24,10 @@
 `Angular` • `JavaScript` • `TypeScript` • `HTML5` • `CSS3`  
 
 **Database**  
-`SQL Server`    
+`SQL Server` • `MongoDB`
 
 **Cloud & DevOps**  
-`Azure`  • `CI/CD` (Azure DevOps, GitHub Actions)  
+`Azure` • `Docker` • `Kubernetes` • `CI/CD` (Azure DevOps, GitHub Actions)   
 
 ---
 
