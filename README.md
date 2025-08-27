@@ -42,7 +42,7 @@
 ## 📫 Connect with Me  
 
 💼 **LinkedIn:** [linkedin.com/in/prakash-sekar-6062141b4](https://linkedin.com/in/prakash-sekar-6062141b4)  
-💻 **GitHub:** [github.com/yourgithub](https://github.com/PrakashS455)  
+💻 **GitHub:** [github.com/PrakashS455](https://github.com/PrakashS455)  
 ✉️ **Email:** prakashakash212@gmail.com  
 
 ---
