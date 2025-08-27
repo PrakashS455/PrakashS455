@@ -24,7 +24,7 @@
 `Angular` • `React` • `Blazor` • `JavaScript` • `TypeScript` • `HTML5` • `CSS3`  
 
 **Database**  
-`SQL Server` • `PostgreSQL` • `MongoDB` • `Redis`  
+`SQL Server`    
 
 **Cloud & DevOps**  
 `Azure`  • `CI/CD` (Azure DevOps, GitHub Actions)  
