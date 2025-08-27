@@ -44,7 +44,7 @@
 🌐 **Portfolio/Blog:** [yourwebsite.com](https://yourwebsite.com)  
 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 💻 **GitHub:** [github.com/yourgithub](https://github.com/yourgithub)  
-✉️ **Email:** your.email@example.com  
+✉️ **Email:** prakashakash212@gmail.com  
 
 ---
 
